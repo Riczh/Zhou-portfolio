@@ -13,7 +13,7 @@ Just as I sincerely expressed in the last course, I would like to know more abou
 Here's where all of my data visualizations will go.
 
 # The Link of Assign 2
-https://riczh.github.io/Zhou-portfolio/
+https://riczh.github.io/Zhou-portfolio/Assign 2.md
 
 ## Picture of General Government Debt in 2015
 
