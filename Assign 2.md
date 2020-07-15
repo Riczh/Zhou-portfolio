@@ -16,7 +16,7 @@ The three pictures show different aspects of the same data. For the first pictur
 
 In the second picture, we show the grid data from 1995-2019 for each countries. The trend of the general government debt is comparable with this picture.
 
-In the third picture, we show the aggregated data of general government deba, which can help us to know the trend of the world of government debt.
+In the third picture, we show the aggregated data of general government deba, which can help us to know the trend of the world of government debt. I choose this data because it is likeable and not very shiny.
 
 Sources: https://data.oecd.org
 
