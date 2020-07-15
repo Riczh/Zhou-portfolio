@@ -20,3 +20,5 @@ In the third picture, we show the aggregated data of general government deba, wh
 
 Sources: https://data.oecd.org
 
+## (option) Tableau Picture
+<script type='text/javascript' src='https://prod-useast-a.online.tableau.com/javascripts/api/viz_v1.js'></script><div class='tableauPlaceholder' style='width: 1163px; height: 562px;'><object class='tableauViz' width='1163' height='562' style='display:none;'><param name='host_url' value='https%3A%2F%2Fprod-useast-a.online.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='&#47;t&#47;ricardostableau' /><param name='name' value='Ricardoweek2&#47;Sheet1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='showAppBanner' value='false' /></object></div>
