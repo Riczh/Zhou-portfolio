@@ -14,6 +14,7 @@ Here's where all of my data visualizations will go.
 
 # The Link of Assign 2
 https://riczh.github.io/Zhou-portfolio
+https://riczh.github.io/Zhou-portfolio/
 
 ## Picture of General Government Debt in 2015
 
@@ -89,6 +90,8 @@ After receiving the helps from friends, I began to draw the picture in Excel.
 https://github.com/Riczh/Zhou-portfolio/blob/master/Jietu20200721-175556%402x.jpg
 
 Except for accepting the suggestions from my friends (1. change the year for 2020-2025 to 2020E - 2025E to make it as estimation; 2. make the unimportant lines grey and only highlight Total), I used black as the color of the total line to highlight it. I also changed the title to make it more readable. Finally, I reduced most of the data points and only left two. 
+
+### Source: the Statista https://www-statista-com.proxy.library.cmu.edu/outlook/90000000/100/apparel/worldwide
 
 
 
