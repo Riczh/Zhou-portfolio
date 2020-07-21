@@ -39,3 +39,57 @@ Sources: https://data.oecd.org
 
 ## (option) Tableau Picture
 <script type='text/javascript' src='https://prod-useast-a.online.tableau.com/javascripts/api/viz_v1.js'></script><div class='tableauPlaceholder' style='width: 1163px; height: 562px;'><object class='tableauViz' width='1163' height='562' style='display:none;'><param name='host_url' value='https%3A%2F%2Fprod-useast-a.online.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='&#47;t&#47;ricardostableau' /><param name='name' value='Ricardoweek2&#47;Sheet1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='showAppBanner' value='false' /></object></div>
+
+
+
+# The Link to the Assign 3
+https://riczh.github.io/Zhou-portfolio
+
+## The link of the Original Picture and Why I select this picture
+https://github.com/Riczh/Zhou-portfolio/blob/master/Statista-Outlook-Volume-Growth-in-the-Apparel-market-worldwide.png?raw=true
+
+I selected this picture because I hope to find a macroeconomic data about a business situation influenced by COVID-19. And I hope this macroeconomic data is from an reliable source (Statista). You can access this data from the CMU Library resources.
+
+## How I create my own picture
+
+I created my own picture by three steps: 1) wireframe a solution, 2) ask for helps from friends, and 3) draw the picture in Excel.
+
+### Wireframe a solution
+https://github.com/Riczh/Zhou-portfolio/blob/master/WechatIMG3037.jpeg
+
+After thinking about how to reform it, I made a wireframe for the picture and change three things. First, I changed title of the picture to make the meaning clearer. Second, I distinguished the total growth lines with others to highlight it. Third, I reduced many data labels but only left the extremum.
+
+### Ask for helps from friends
+
+I found two friends who are not very familiar with telling stories with data. But their ideas are insightful. I will call them A & B in the answers of each questions.
+
+- Can you tell me what you think this is?
+A: The trend of Apparel growth
+B: The influence of COVID-19
+
+- Can you describe to me what this is telling you?
+A: The growth rate of men’s apparel market is higher than the other.
+B: The Apparel market is deeply influenced by COVID-19 and it will come back in the further several years.
+ 	
+- Is there anything you find surprising or confusing?
+A: I don’t know how to get the number from 2020-2025.
+B: I hope you can add colors in the real pictures to make it more readable.
+
+- Who do you think is the intended audience for this?
+A: The businessman of Apparel market?
+B: The policymaker dealing with COVID-19?
+
+- Is there anything you would change or do differently?
+A: I will change the year for 2020-2025 to 2020E - 2025E to make it as estimation.
+B: I will make the unimportant lines grey and only highlight Total.
+
+### Draw the picture in Excel
+
+After receiving the helps from friends, I began to draw the picture in Excel. 
+https://github.com/Riczh/Zhou-portfolio/blob/master/Jietu20200721-175556%402x.jpg
+
+Except for accepting the suggestions from my friends (1. change the year for 2020-2025 to 2020E - 2025E to make it as estimation; 2. make the unimportant lines grey and only highlight Total), I used black as the color of the total line to highlight it. I also changed the title to make it more readable. Finally, I reduced most of the data points and only left two. 
+
+
+
+
