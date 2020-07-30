@@ -45,15 +45,66 @@ I will show the change of stock price ratio of Salesforce and S&P 500 and compar
 
 ## User research protocol
 
-Once your interviews are complete, you should have documented findings that detail what you've learned by showing your early wireframes / storyboards to at least three different individuals.  
+The user research protocol identifies the following: 
 
-Your user research protocol should clearly identify the following: 
+a. the target audience you hope to reach with your story: My target audience of my presentation are rich people have technology knowledge but no investment experience. However, they still want to earn extra money by buying stocks. Therefore, my plan is to introduce a company that they may hear before, and use financial data to tell a story about the stock that the stock price will go higher in a year.
 
-a. the target audience you hope to reach with your story; 
-b. your approach to identifying representative individuals to interview; 
-c. your interview script; 
-d. the findings from your interviews; and 
-e. changes you plan on implementing to your visualizations next week to address the issues identified. 
+b. your approach to identifying representative individuals to interview: As a CMU student, I have network of tech people. If they enter FAMMA, it is possible that they are rich enough to make some plan in investment. So, I can find some of my CMU friends who are in these companies.
 
+c. your interview script:
+- Can you tell me what you think this is?
+- Can you describe to me what this is telling you?
+- Is there anything you find surprising or confusing?
+- Is there anything you would change or do differently?
 
-## User Interviews 
+## User Interviews
+
+Interviewee 1: 
+-Can you tell me what you think this is?
+Some simulations of the situations.
+
+-Can you describe to me what this is telling you?
+I feel that you are using pictures to show some situations in your imagination, and finally show the idealized success.
+
+-Is there anything you find surprising or confusing?
+I don't really understand the meaning of drawing this thing, because it's just based on your imagination. In reality, it's impossible to succeed so easily.
+
+-Is there anything you would change or do differently?
+I think this thing is meaningless, you should show me your code and create the thing first.
+
+Interviewee 2: 
+- Can you tell me what you think this is?
+Interviewee: To be honest, I didn't understand, because these pictures of yours have no titles. I don't know what the core content you want to say is, and what kind of connection they have.
+
+Ricardo: Actually this is a storyboard, which explains the whole process of a presentation I am going to do.
+
+Interviewee: Well, who is your target audience?
+
+Ricardo: People like you.
+
+-Can you describe to me what this is telling you?
+It seems that you are trying to make a stock pitch and finally reached a deal, but I am not sure why you should buy it.
+
+-Is there anything you find surprising or confusing?
+Maybe it's because of the length. I don't think the logic inside is very clear. For example, if you just buy stocks like this, won't you worry about falling?
+
+-Is there anything you would change or do differently?
+I didn't think about it, I should add a title, and write the background information you introduced to me before.
+
+Interviewee 3: 
+-Can you tell me what you think this is?
+A storyboard? I drew something similar before in our company.
+
+-Can you describe to me what this is telling you?
+It should be a certain kind of process. You want to make a stock pitch, right? I think you have written your target customer group here, which is quite similar to me.
+
+-Is there anything you find surprising or confusing?
+To be honest, the pictures are too small, and some pictures are not clear (show data visualizations). These two can be seen clearly, but the drawing is rather sloppy. I hope you can add more details to the real content. For example, you can show the CAGR of Revenue and Cost to compare the growth rates of the two.
+
+-Is there anything you would change or do differently?
+I will add CAGR, and then mark more data points in each graph. But I think it still lacks a little persuasiveness in the end. That's why you want to buy stocks and not do other things. You can think about it.
+
+### Changes that plan on implementing to the visualizations next week to address the issues identified
+1) Add a Title for each picture to explain the context and my idea
+2) Add more details in the real data visualizations.
+3) Compare the ROI of investing in Salesforce with other methods.
