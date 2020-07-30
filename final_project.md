@@ -1,21 +1,20 @@
+## Sharepoint Sketch
+[Stock pitch for Salesforce](https://preview.shorthand.com/Ucc2ttpL678s5R6m)
 
-The Link of Assign 2
-https://riczh.github.io/Zhou-portfolio
+## Final Dataset
+https://github.com/Riczh/Zhou-portfolio/blob/master/Ricardo%20ZHOU_TSWD%20data.xlsx
 
-Picture of General Government Debt in 2015
-<iframe src="https://data.oecd.org/chart/61OZ" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true">OECD Chart: General government debt, Total, % of GDP, Annual, 2015</iframe>
-Grid data of General government debt, 1995-2019
-<script src="https://public.flourish.studio/resources/embed.js"></script>
-Aggregation of General government debt, 1995-2019
-<script src="https://public.flourish.studio/resources/embed.js"></script>
-The different methods of visualization and the comparison
-The three pictures show different aspects of the same data. For the first picture, it illustrates the general government debt in 2015 for countries. The picture only uses the data in one year, and we highlight the US in the picture to compare with others.
+Comments: A couple of paragraphs that document data sources and how data will be used.
 
-In the second picture, we show the grid data from 1995-2019 for each countries. The trend of the general government debt is comparable with this picture.
+## User research protocol
 
-In the third picture, we show the aggregated data of general government deba, which can help us to know the trend of the world of government debt. I choose this data because it is likeable and not very shiny.
 
-Sources: https://data.oecd.org
+Once your interviews are complete, you should have documented findings that detail what you've learned by showing your early wireframes / storyboards to at least three different individuals.  
 
-(option) Tableau Picture
-<script type='text/javascript' src='https://prod-useast-a.online.tableau.com/javascripts/api/viz_v1.js'></script>
+Your user research protocol should clearly identify the following: 
+
+a. the target audience you hope to reach with your story; 
+b. your approach to identifying representative individuals to interview; 
+c. your interview script; 
+d. the findings from your interviews; and 
+e. changes you plan on implementing to your visualizations next week to address the issues identified. 
