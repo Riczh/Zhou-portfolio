@@ -15,7 +15,7 @@ story arc is described; call to action is identified. Method and medium are iden
 [Story Arc](WechatIMG3037.jpeg)
 My story arc is above. It proves that the audience should buy the stock of Salesforce (call-to-action) for a high return. The X axis shows the time, and the Y axis shows the ratio of stock price compared to 2010. The method is to make comparative analysis, and the medium is the ratio of stock price on my website from a source of Yahoo Finance..
 
-I draw two lines in this picture. The upper one is the line of Salesforce; the lower one is the S&P 500, representing other large companies' stock prices. As we can see here, in the past 20 years, Salesforce's increase in stock price is much higher than the increase of S&P 500. Therefore, compared to the most of the companies in S&P 500, Salesforce is a better target for investment.
+I draw two lines in this picture. The upper one is the line of Salesforce; the lower one is the S&P 500, representing other large companies' stock prices. As we can see here, in the past 10 years, Salesforce's increase in stock price is much higher than the increase of S&P 500. Therefore, compared to the most of the companies in S&P 500, Salesforce is a better target for investment.
 
 Moreover, I draw out a valuation line for Salesforce from some famous financial institutions, such as Yahoo Finance & Capital IQ. With the stock price valuation, we can calculate the future return in 1 or 2 years as I show in the right past.
 Short description of how you'll be completing the final project:
@@ -37,9 +37,11 @@ My storyboards should be a visual walkthrough of the primary elements of your ou
 
 ### Data visualizations
 
-[Revenue & Cost]
+[Revenue & Cost](WechatIMG3111.jpeg)
+I will draw a line of revenue to show the correlation of revenue and stock price, and point out the revenue will go higher. I showed the changes in revenue and cost of Salesforce in the past 10 years. It can be found that revenue is increasing rapidly, and the growth rate is faster than cost, which means that the profit is also increasing rapidly.
 
-[Ratio of Stock Price]
+[Ratio of Stock Price](WechatIMG3037.jpeg)
+I will show the change of stock price ratio of Salesforce and S&P 500 and compare them. I will use the estimation of valuation about Salesforce's stock price to calculate the return of investment (ROI).
 
 ## User research protocol
 
