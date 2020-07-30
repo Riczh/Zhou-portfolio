@@ -4,10 +4,16 @@
 ## Final Dataset
 https://github.com/Riczh/Zhou-portfolio/blob/master/Ricardo%20ZHOU_TSWD%20data.xlsx
 
-Comments: A couple of paragraphs that document data sources and how data will be used.
+Comments: The datasets mainly from three sources, the annual report of Salesforece, Yahoo Finance and Capital IQ. 
+In this process, I used these data as follows. First of all, I showed the changes in revenue and cost of Salesforce in the past 10 years. It can be found that revenue is increasing rapidly, and the growth rate is faster than cost, which means that the profit is also increasing rapidly. Secondly, in the second graph, I will use 2010 stock prices as a baseline to see the percentage growth of Salesforce and S&P 500. It can be clearly seen that Salesforce's stock price is growing faster than S&P 500. Finally, it shows the future stock price estimate, explaining what the return of buying Salesforce now will be in one year.
+
+## Wireframe & StoryBoard
+
+[Wireframe](WechatIMG3037.jpeg)
+
+[Storyboard](WechatIMG3110.jpeg)
 
 ## User research protocol
-
 
 Once your interviews are complete, you should have documented findings that detail what you've learned by showing your early wireframes / storyboards to at least three different individuals.  
 
