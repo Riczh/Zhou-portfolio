@@ -27,6 +27,11 @@ And finally, I would make a conclusion for the stock pitch. "Salesforce has enou
 ## Final Dataset
 https://github.com/Riczh/Zhou-portfolio/blob/master/Ricardo%20ZHOU_TSWD%20data.xlsx
 
+The datasets from three sources:
+1. The Annual reports of Salesforce https://investor.salesforce.com/financials/default.aspx
+2. The data of Yahoo Finance https://finance.yahoo.com/quote/CRM?p=CRM&.tsrc=fin-srch
+3. The data of Capital IQ https://www.capitaliq.com/CIQDotNet/my/dashboard.aspx (Need to log in CMU VPN)
+
 Comments: The datasets mainly from three sources, the annual report of Salesforece, Yahoo Finance and Capital IQ. 
 In this process, I used these data as follows. First of all, I showed the changes in revenue and cost of Salesforce in the past 10 years. It can be found that revenue is increasing rapidly, and the growth rate is faster than cost, which means that the profit is also increasing rapidly. Secondly, in the second graph, I will use 2010 stock prices as a baseline to see the percentage growth of Salesforce and S&P 500. It can be clearly seen that Salesforce's stock price is growing faster than S&P 500. Finally, it shows the future stock price estimate, explaining what the return of buying Salesforce now will be in one year.
 
