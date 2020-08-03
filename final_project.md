@@ -1,4 +1,4 @@
-## Sharepoint Sketch
+## Shorthand Sketch
 [Stock pitch for Salesforce](https://preview.shorthand.com/Ucc2ttpL678s5R6m)
 
 ### Introduction and Outline
