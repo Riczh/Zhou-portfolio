@@ -18,5 +18,5 @@ https://riczh.github.io/Zhou-portfolio/assign2
 ### The Link to the Assign 3
 https://riczh.github.io/Zhou-portfolio/assign3
 
-### Final Project Part 1
+### Final Project Part 1 & Part 2
 https://riczh.github.io/Zhou-portfolio/final_project
