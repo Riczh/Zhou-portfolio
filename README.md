@@ -12,11 +12,11 @@ Just as I sincerely expressed in the last course, I would like to know more abou
 # Portfolio
 Here's where all of my data visualizations will go.
 
-# The Link of Assign 2
+### The Link of Assign 2
 https://riczh.github.io/Zhou-portfolio/assign2
 
-# The Link to the Assign 3
+### The Link to the Assign 3
 https://riczh.github.io/Zhou-portfolio/assign3
 
-# Final Project
+### Final Project Part 1
 https://riczh.github.io/Zhou-portfolio/final_project
