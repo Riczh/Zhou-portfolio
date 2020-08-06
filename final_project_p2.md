@@ -1,6 +1,6 @@
 # Final Project Part II
 
-## 1.The idea
+## 1. The idea
 
 ### High-Level Introduction
 Many people are trying to invest in stock market in March 2020, but they don't know which stock to choose. I give them a list of 5 good companies to invest, and one of them is Salesforce. Salesforce has enough revenue to grow for a higher valuation, especially in a promising industry. 
@@ -33,13 +33,14 @@ The datasets from three sources:
 1. The Annual reports of Salesforce https://investor.salesforce.com/financials/default.aspx
 2. The data of Yahoo Finance https://finance.yahoo.com/quote/CRM?p=CRM&.tsrc=fin-srch
 3. The data of Capital IQ https://www.capitaliq.com/CIQDotNet/my/dashboard.aspx (Need to log in CMU VPN)
+4. Apps Run the World https://www.appsruntheworld.com/top-10-cloud-crm-software-vendors-market-size-and-forecast-2019-2024/
 
 ### The sources of data and how will I use them
 The datasets mainly from three sources, the annual report of Salesforece, Yahoo Finance and Capital IQ. 
 
 In this process, I used these data as follows. First of all, I showed the changes in revenue and cost of Salesforce in the past 10 years. It can be found that revenue is increasing rapidly, and the growth rate is faster than cost, which means that the profit is also increasing rapidly. Secondly, in the second graph, I will use 2010 stock prices as a baseline to see the percentage growth of Salesforce and S&P 500. It can be clearly seen that Salesforce's stock price is growing faster than S&P 500. Finally, it shows the future stock price estimate, explaining what the return of buying Salesforce now will be in one year.
 
-## 2.Design and user research
+## 2. Design and user research
 
 ### Wireframe & StoryBoard
 
@@ -131,7 +132,7 @@ I will add CAGR, and then mark more data points in each graph. But I think it st
 
 Part II writeup includes a few paragraphs that talk about the intended audience for your final data story. Personas and / or other information used to narrow the focus are included. Specific things that were changed between Part I and II are noted based on user feedback.
 
-## 3.Final data story
+## 3. Final data story
 
 A few paragraphs that talk about the intended audience for your final data story.  Include any personas and / or other information you've used that helped you narrow the focus.  Talk about specific things you did to your final project to make it work for your audience. 
 A few paragraphs that summarize the work you've done so far.  Talk about the design decisions you had to make along the way, and reflect on anything in particular that stands out to you that you learned working through the process. 
