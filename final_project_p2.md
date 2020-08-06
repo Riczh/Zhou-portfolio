@@ -12,9 +12,9 @@ As a reader, I want to invest in Salesforce's stock so that I can get a high ret
 
 ![Story Arc](WechatIMG3106.jpeg) 
 
-My story arc is above. It proves that the audience should buy the stock of Salesforce (call-to-action) for a high return. The X axis shows the time, and the Y axis shows the ratio of stock price compared to 2010. The method is to make comparative analysis, and the medium is the ratio of stock price on my website from a source of Yahoo Finance..
+My story arc is above. It proves that the audience should buy the stock of Salesforce (call-to-action) for a high return. The X axis shows the time, and the Y axis shows the ratio of stock price compared to 2015. The method is to make comparative analysis, and the medium is the ratio of stock price on my website from a source of Yahoo Finance..
 
-I draw two lines in this picture. The upper one is the line of Salesforce; the lower one is the S&P 500, representing other large companies' stock prices. As we can see here, in the past 10 years, Salesforce's increase in stock price is much higher than the increase of S&P 500. Therefore, compared to the most of the companies in S&P 500, Salesforce is a better target for investment.
+I draw two lines in this picture. The upper one is the line of Salesforce; the lower one is the S&P 500, representing other large companies' stock prices. As we can see here, in the past 5 years, Salesforce's increase in stock price is much higher than the increase of S&P 500. Therefore, compared to the most of the companies in S&P 500, Salesforce is a better target for investment.
 
 Moreover, I draw out a valuation line for Salesforce from some famous financial institutions, such as Yahoo Finance & Capital IQ. With the stock price valuation, we can calculate the future return in 1 or 2 years as I show in the right past.
 
