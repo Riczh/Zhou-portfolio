@@ -3,28 +3,28 @@
 ## 1. The idea
 
 ### High-Level Introduction
-Many people are trying to invest in stock market in April 2020, but they don't know which stock to choose. I give them a list of 5 good companies to invest, and one of them is Salesforce. Salesforce has enough revenue to grow for a higher valuation, especially in a promising industry. 
+Many people are trying to invest in the stock market in April 2020, but they don't know which stock to choose. I give them a list of 5 good companies to invest in, and one of them is Salesforce. Salesforce has enough revenue to grow for a higher valuation, especially in a promising industry. 
 
-#### What should my reader do if they understand and agree the story
-As a reader, I want to invest in Salesforce's stock so that I can get a high return from my investment.
+#### What should my reader do if they understand and agree with the story
+As a reader, I want to invest in Salesforce's stock to get a high return from my investment.
 
 ### Outline
 
 ![Story Arc](WechatIMG3106.jpeg) 
 
-My story arc is above. It proves that the audience should buy the stock of Salesforce (call-to-action) for a high return. The X axis shows the time, and the Y axis shows the ratio of stock price compared to 2010. The method is to make comparative analysis, and the medium is the ratio of stock price on my website from a source of Yahoo Finance..
+My story arc is above. It proves that the audience should buy the stock of Salesforce (call-to-action) for a high return. The X-axis shows the time, and the Y-axis shows the ratio of stock price compared to 2010. The method is to make a comparative analysis, and the medium is the ratio of the stock price on my website from a source of Yahoo Finance.
 
-I draw two lines in this picture. The upper one is the line of Salesforce; the lower one is the S&P 500, representing other large companies' stock prices. As we can see here, in the past 5 years, Salesforce's increase in stock price is much higher than the increase of S&P 500. Therefore, compared to the most of the companies in S&P 500, Salesforce is a better target for investment.
+I draw two lines in this picture. The upper one is the line of Salesforce; the lower one is the S&P 500, representing other large companies' stock prices. As we can see here, in the past ten years, Salesforce's increase in stock price is much higher than the rise in the S&P 500. Therefore, compared to most of the S&P 500, Salesforce is a better target for investment.
 
-Moreover, I draw out a valuation line for Salesforce from some famous financial institutions, such as Yahoo Finance & Capital IQ. With the stock price valuation, we can calculate the future return in 1 or 2 years as I show in the right past.
+Moreover, I draw a valuation line for Salesforce from some famous financial institutions, such as Yahoo Finance & Capital IQ. With the stock price valuation, we can calculate future returns in 1 or 2 years as I show in the right past.
 
 #### Short description of how it will be completing the final project
 
-I will use Tableau, infogram, and other softwares or website to visualize my data and tell them to my audience. The final outcome will be a website on Shorthand.
+I will use Tableau, infogram, and other software or website to visualize my data and tell them to my audience. The outcome will be a website on Shorthand.
 
-Since I only have 1 minute to present, I would like to give you a short introduction and three truths with three figures. First, Valuation. I will show the change of stock price ratio of Salesforce and S&P 500 and compare them. Second, Revenue. I will draw a line of revenue to show the correlation of revenue and stock price, and point out the revenue will go higher. Third, future. I will use the estimation of valuation about Salesforce's stock price to calculate the return of investment (ROI).
+Since I only have 1 minute to present, I would like to give you a short introduction and three truths with three figures. First, Valuation. I will show the change in the stock price ratio of Salesforce and the S&P 500 and compare them. Second, Revenue. I will point out the revenue is so high. Third, future. I will use the estimation of valuation about Salesforce's stock price to calculate the return of investment (ROI).
 
-And finally, I would make a conclusion for the stock pitch. "Salesforce has enough revenue to grow for a higher valuation, especially in a promising industry."
+And finally, I would conclude the stock pitch. "Salesforce has enough revenue to grow for a higher valuation, especially in a promising industry."
 
 ### Final Dataset
 https://github.com/Riczh/Zhou-portfolio/blob/master/Ricardo%20ZHOU_TSWD%20data.xlsx
@@ -36,9 +36,9 @@ The datasets from four sources:
 4. Apps Run the World https://www.appsruntheworld.com/top-10-cloud-crm-software-vendors-market-size-and-forecast-2019-2024/
 
 ### The sources of data and how will I use them
-The datasets mainly from three sources, the annual report of Salesforece, Yahoo Finance and Capital IQ. 
+The datasets mainly from three sources, the annual report of Salesforce, Yahoo Finance, and Capital IQ. 
 
-In this process, I used these data as follows. First of all, I showed the changes in revenue and cost of Salesforce in the past 10 years. It can be found that revenue is increasing rapidly, and the growth rate is faster than cost, which means that the profit is also increasing rapidly. Secondly, in the second graph, I will use 2010 stock prices as a baseline to see the percentage growth of Salesforce and S&P 500. It can be clearly seen that Salesforce's stock price is growing faster than S&P 500. Finally, it shows the future stock price estimate, explaining what the return of buying Salesforce now will be in one year.
+In this process, I used these data as follows. I showed the changes in revenue and cost of Salesforce in the past ten years. It can be found that income is increasing rapidly, and the growth rate is faster than cost, which means that the profit is also growing rapidly. Secondly, in the second graph, I will use 2010 stock prices as a baseline to see the percentage growth of Salesforce and S&P 500. It can be seen that Salesforce's stock price is growing faster than the S&P 500. Finally, it shows the future stock price estimate, explaining what the return of buying Salesforce now will be in one year.
 
 ## 2. Design and user research
 
@@ -50,20 +50,20 @@ My storyboards should be a visual walkthrough of the primary elements of your ou
 ### Previous Data visualizations
 
 ![Revenue & Cost](WechatIMG3111.jpeg)
-I will draw a line of revenue to show the correlation of revenue and stock price, and point out the revenue will go higher. I showed the changes in revenue and cost of Salesforce in the past 10 years. It can be found that revenue is increasing rapidly, and the growth rate is faster than cost, which means that the profit is also increasing rapidly.
+I will draw a line of revenue to show the correlation between revenue and stock price, and point out the income will go higher. I showed the changes in tax and the cost of Salesforce in the past ten years. It can be found that revenue is increasing rapidly, and the growth rate is faster than the price, which means that the profit is also growing rapidly.
 
 ![Ratio of Stock Price](WechatIMG3106.jpeg)
-I will show the change of stock price ratio of Salesforce and S&P 500 and compare them. I will use the estimation of valuation about Salesforce's stock price to calculate the return of investment (ROI).
+I will show the change in the stock price ratio of Salesforce and the S&P 500 and compare them. I will use the estimation of valuation about Salesforce's stock price to calculate the return of investment (ROI).
 
 ### User research protocol
 
 The user research protocol identifies the following: 
 
 #### a. the target audience you hope to reach with your story:
-My target audience of my presentation are rich people have technology knowledge but no investment experience. However, they still want to earn extra money by buying stocks. Therefore, my plan is to introduce a company that they may hear before, and use financial data to tell a story about the stock that the stock price will go higher in a year.
+The target audience of my presentation is rich people who have technology knowledge but no investment experience. However, they still want to earn extra money by buying stocks. Therefore, I plan to introduce a company that they may hear before and use financial data to tell a story about the capital that the stock price will go higher in a year.
 
 #### b. your approach to identifying representative individuals to interview: 
-As a CMU student, I have network of tech people. If they enter FAMMA, it is possible that they are rich enough to make some plan in investment. So, I can find some of my CMU friends who are in these companies.
+As a CMU student, I have a network of tech people. If they enter FAMMA, it is possible that they are rich enough to make some plans in investment. So, I can find some of my CMU friends who are in these companies.
 
 #### c. your interview script:
 - Can you tell me what you think this is?
@@ -81,10 +81,10 @@ Some simulations of the situations.
 I feel that you are using pictures to show some situations in your imagination, and finally show the idealized success.
 
 -Is there anything you find surprising or confusing?
-I don't really understand the meaning of drawing this thing, because it's just based on your imagination. In reality, it's impossible to succeed so easily.
+I don't really understand drawing this thing, because it's just based on your imagination. In reality, it's impossible to succeed so quickly.
 
 -Is there anything you would change or do differently?
-I think this thing is meaningless, you should show me your code and create the thing first.
+I think this thing is meaningless; you should show me your code and create the thing first.
 
 Interviewee 2: 
 - Can you tell me what you think this is?
@@ -103,7 +103,7 @@ It seems that you are trying to make a stock pitch and finally reached a deal, b
 Maybe it's because of the length. I don't think the logic inside is very clear. For example, if you just buy stocks like this, won't you worry about falling?
 
 -Is there anything you would change or do differently?
-I didn't think about it, I should add a title, and write the background information you introduced to me before.
+I didn't think about it; I should add a title, and write the background information you introduced to me before.
 
 Interviewee 3: 
 -Can you tell me what you think this is?
@@ -113,7 +113,7 @@ A storyboard? I drew something similar before in our company.
 It should be a certain kind of process. You want to make a stock pitch, right? I think you have written your target customer group here, which is quite similar to me.
 
 -Is there anything you find surprising or confusing?
-To be honest, the pictures are too small, and some pictures are not clear (show data visualizations). These two can be seen clearly, but the drawing is rather sloppy. I hope you can add more details to the real content. For example, you can show the CAGR of Revenue and Cost to compare the growth rates of the two.
+To be honest, the pictures are too small, and some are not clear (show data visualizations). These two can be seen clearly, but the drawing is rather sloppy. I hope you can add more details to the real content. For example, you can show the CAGR of Revenue and Cost to compare the growth rates of the two.
 
 -Is there anything you would change or do differently?
 I will add CAGR, and then mark more data points in each graph. But I think it still lacks a little persuasiveness in the end. That's why you want to buy stocks and not do other things. You can think about it.
@@ -131,13 +131,13 @@ I will add CAGR, and then mark more data points in each graph. But I think it st
 ![Dominant Position of Salesforce in the Cloud CRM industry](Jietu20200806-140401@2x.jpg)
 Salesforce has a very high market share and dominance in Cloud CRM, close to 4 times as the second place.
 
-#### I cannot embed this picture on Tableau online since I cannot sign in. When I try to sign in, Tableau Server told me this site has been suspended. You must be a System Administrator to sign in (errorCode = 10029). When I try to create a new account to sign in, it told me unable to sign in for invalid username or password. So I can only use a screenshot to do this.
+#### I cannot embed this picture on Tableau online since I cannot sign in. When I try to sign in, Tableau Server told me this site had been suspended. You must be a System Administrator to sign in (errorCode = 10029). When I try to create a new account to sign in, it told me unable to sign in for an invalid username or password. So I can only use a screenshot to do this.
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/3401607" data-url="https://flo.uri.sh/visualisation/3401607/embed"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
-Salesforce's current revenue is very high, so that the company has enough stability not to fail in a crisis. I will draw a line of revenue to show the correlation of revenue and stock price, and point out the revenue will go higher. I showed the changes in revenue and cost of Salesforce in the past 10 years. It can be found that revenue is increasing rapidly, and the growth rate is faster than cost, which means that the profit is also increasing rapidly.
+Salesforce's current revenue is very high so that the company has enough stability not to fail in a crisis. I will draw a line of revenue to show the correlation between revenue and stock price, and point out the revenue will go higher. I showed the changes in revenue and cost of Salesforce in the past ten years. It can be found that revenue is increasing rapidly, and the growth rate is faster than cost, which means that the profit is also increasing rapidly.
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/3402444" data-url="https://flo.uri.sh/visualisation/3402444/embed"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
-This is the change in the stock price of Salesforce and other large companies' indexes from 2015 to the present. Salesforce's growth rate is much higher than other companies in the market, and it is expected to continue to grow rapidly in the next several months. I will show the change of stock price ratio of Salesforce and S&P 500 and compare them. I will use the estimation of valuation about Salesforce's stock price to calculate the return of investment (ROI).
+This is the change in the stock price of Salesforce and other large companies' indexes from 2015 to the present. Salesforce's growth rate is much higher than other companies in the market, and it is expected to continue to grow rapidly in the next several months. I will show the change in stock price ratio of Salesforce and S&P 500 and compare them. I will use the estimation of valuation about Salesforce's stock price to calculate the return of investment (ROI).
 
 ###
 待完成
@@ -148,8 +148,8 @@ Part II writeup includes a few paragraphs that talk about the intended audience 
 ### Talk about my intended audience for the final story
 Suppose we have a Time Machine and come back to April 2020. You are an employee of one of the best tech companies and just graduated from CMU, who is interested in investing in stocks but have no experience.  And as a stockbroker, I am going to introduce the Salesforce to persuade you to buy the stock. 
 
-### How would I tell the 1 minute story to my audience
-Hey if you want to make money by investment but never try it, here is the way. There are the best five stocks that might suit you. And I will introduce Salesforce among them, with 3 pictures.
+### How would I tell the 1-minute story to my audience
+Hey, if you want to make money by investment but never try it, here is the way. There are the best five stocks that might suit you. And I will introduce Salesforce among them, with three pictures.
 
 First, Salesforce has a very high market share and dominance in Cloud CRM, close to 4 times as the second place.
 
@@ -160,11 +160,11 @@ Therefore, using the following two websites, buy the stock, But buy the amount t
 
 I also prepared in-depth industry research and financial analysis. If you are interested, you can read it on our website.
 
-If someone wants to sell a stock like this, don’t trust them. They are just bloody stock broker who wants to get your money to their pocket. I am Seriously!
+If someone wants to sell a stock like this, don't trust them. They are just a bloody stockbroker who wants to get your money to their pocket. I am Serious!
 
 ### A few paragraphs that summarize the work you've done so far
 
-For the whole Shorthand website, I have six parts on the website. The first one is background. I would like to give me audience a hypothetical situation and involve them in. Then, I put three pictures in investment thesis, which is the key part of my one-minute presentation. I also have industry overview and financial analysis to give more detail for potential investors about the company. Finally, I have a call-to-action to make people move for that. I also list references and sources of information or tools of my presentation.
+For the whole Shorthand website, I have six parts on the website. The first one is the background. I would like to give my audience a hypothetical situation and involve them. Then, I put three pictures in an investment thesis, which is the key part of my one-minute presentation. I also have an industry overview and financial analysis to give more detail to potential investors about the company. Finally, I have a call-to-action to make people move for that. I also list references and sources of information or tools for my presentation.
 
 ## 4. Links and references
 
