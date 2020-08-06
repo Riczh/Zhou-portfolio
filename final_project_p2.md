@@ -49,11 +49,14 @@ My storyboards should be a visual walkthrough of the primary elements of your ou
 
 ### Data visualizations
 
-![Revenue & Cost](WechatIMG3111.jpeg)
-I will draw a line of revenue to show the correlation of revenue and stock price, and point out the revenue will go higher. I showed the changes in revenue and cost of Salesforce in the past 10 years. It can be found that revenue is increasing rapidly, and the growth rate is faster than cost, which means that the profit is also increasing rapidly.
+![Dominant Position of Salesforce in the Cloud CRM industry](Jietu20200721-175556@2x.jpg)
+Salesforce has a very high market share and dominance in Cloud CRM, close to 4 times as the second place.
 
-![Ratio of Stock Price](WechatIMG3106.jpeg)
-I will show the change of stock price ratio of Salesforce and S&P 500 and compare them. I will use the estimation of valuation about Salesforce's stock price to calculate the return of investment (ROI).
+<div class="flourish-embed flourish-chart" data-src="visualisation/3401607" data-url="https://flo.uri.sh/visualisation/3401607/embed"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+Salesforce's current revenue is very high, so that the company has enough stability not to fail in a crisis. I will draw a line of revenue to show the correlation of revenue and stock price, and point out the revenue will go higher. I showed the changes in revenue and cost of Salesforce in the past 10 years. It can be found that revenue is increasing rapidly, and the growth rate is faster than cost, which means that the profit is also increasing rapidly.
+
+<div class="flourish-embed flourish-chart" data-src="visualisation/3402444" data-url="https://flo.uri.sh/visualisation/3402444/embed"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+This is the change in the stock price of Salesforce and other large companies' indexes from 2015 to the present. Salesforce's growth rate is much higher than other companies in the market, and it is expected to continue to grow rapidly in the next several months. I will show the change of stock price ratio of Salesforce and S&P 500 and compare them. I will use the estimation of valuation about Salesforce's stock price to calculate the return of investment (ROI).
 
 ### User research protocol
 
