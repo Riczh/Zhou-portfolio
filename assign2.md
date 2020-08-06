@@ -13,11 +13,11 @@
 
 ## The different methods of visualization and the comparison
 
-The three pictures show different aspects of the same data. For the first picture, it illustrates the general government debt in 2015 for countries. The picture only uses the data in one year, and we highlight the US in the picture to compare with others.
+The three pictures show different aspects of the same data. For the first picture, it illustrates the general government debt in 2015 for countries. The picture only uses the data in one year, and we highlight the US in the picture to compare it with others.
 
-In the second picture, we show the grid data from 1995-2019 for each countries. The trend of the general government debt is comparable with this picture.
+In the second picture, we show the grid data from 1995-2019 for each country. The trend of the general government debt is comparable with this picture.
 
-In the third picture, we show the aggregated data of general government deba, which can help us to know the trend of the world of government debt. I choose this data because it is likeable and not very shiny.
+In the third picture, we show the aggregated data of general government debt, which can help us to know the trend of the world of government debt. I choose this data because it is likeable and not very shiny.
 
 Sources: https://data.oecd.org
 
