@@ -12,6 +12,9 @@ Just as I sincerely expressed in the last course, I would like to know more abou
 # Portfolio
 Here's where all of my data visualizations will go.
 
+### The Link of Assign 1
+[Assign 1](HW 1_Ricardo Zhou - Critique #1_ Economist bar chart (The Good Charts Matrix).xlsx)
+
 ### The Link of Assign 2
 https://riczh.github.io/Zhou-portfolio/assign2
 
