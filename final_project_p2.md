@@ -29,7 +29,7 @@ And finally, I would make a conclusion for the stock pitch. "Salesforce has enou
 ### Final Dataset
 https://github.com/Riczh/Zhou-portfolio/blob/master/Ricardo%20ZHOU_TSWD%20data.xlsx
 
-The datasets from three sources:
+The datasets from four sources:
 1. The Annual reports of Salesforce https://investor.salesforce.com/financials/default.aspx
 2. The data of Yahoo Finance https://finance.yahoo.com/quote/CRM?p=CRM&.tsrc=fin-srch
 3. The data of Capital IQ https://www.capitaliq.com/CIQDotNet/my/dashboard.aspx (Need to log in CMU VPN)
