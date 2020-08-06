@@ -10,8 +10,6 @@ Salesforce has enough revenue to grow for a higher valuation, especially in a pr
 
 As a reader, I want to invest in this company so that I can get a high return.
 
-story arc is described; call to action is identified. Method and medium are identified.
-
 #### Outline
 
 ![Story Arc](WechatIMG3106.jpeg) 
