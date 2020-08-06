@@ -153,7 +153,7 @@ First, Salesforce has a very high market share and dominance in Cloud CRM, close
 
 Secondly, Salesforce's current revenue is very high, so that the company has enough stability not to fail in a crisis.
 
-Finally, this is the change in the stock price of Salesforce and other large companies' indexes from 2016 to the present. Salesforce's growth rate is much higher than other companies in the market, and it is expected to continue to grow rapidly in the next 1-2 years. 
+Finally, this is the change in the stock price of Salesforce and other large companies' indexes from 2010 to the present. Salesforce's growth rate is much higher than other companies in the market, and it is expected to continue to grow rapidly in the next 1-2 years. 
 Therefore, using the following two websites, buy the stock, But buy the amount that makes you comfortable. We are not here to make you nervous; we are here to help you make money.
 
 I also prepared in-depth industry research and financial analysis. If you are interested, you can read it on our website.
