@@ -14,7 +14,7 @@ As a reader, I want to invest in this company so that I can get a high return.
 
 ![Story Arc](WechatIMG3106.jpeg) 
 
-My story arc is above. It proves that the audience should buy the stock of Salesforce (call-to-action) for a high return. The X axis shows the time, and the Y axis shows the ratio of stock price compared to 2010. The method is to make comparative analysis, and the medium is the ratio of stock price on my website from a source of Yahoo Finance..
+My story arc is above. It proves that the audience should buy the stock of Salesforce (call-to-action) for a high return. The X axis shows the time, and the Y axis shows the ratio of stock price compared to 2010. The method is to make comparative analysis, and the medium is the ratio of stock price on my website from a source of Yahoo Finance.
 
 I draw two lines in this picture. The upper one is the line of Salesforce; the lower one is the S&P 500, representing other large companies' stock prices. As we can see here, in the past 10 years, Salesforce's increase in stock price is much higher than the increase of S&P 500. Therefore, compared to the most of the companies in S&P 500, Salesforce is a better target for investment.
 
@@ -33,7 +33,7 @@ The datasets from three sources:
 2. The data of Yahoo Finance https://finance.yahoo.com/quote/CRM?p=CRM&.tsrc=fin-srch
 3. The data of Capital IQ https://www.capitaliq.com/CIQDotNet/my/dashboard.aspx (Need to log in CMU VPN)
 
-Comments: The datasets mainly from three sources, the annual report of Salesforece, Yahoo Finance and Capital IQ. 
+Comments: The datasets mainly from three sources, the annual report of Salesforce, Yahoo Finance and Capital IQ. 
 In this process, I used these data as follows. First of all, I showed the changes in revenue and cost of Salesforce in the past 10 years. It can be found that revenue is increasing rapidly, and the growth rate is faster than cost, which means that the profit is also increasing rapidly. Secondly, in the second graph, I will use 2010 stock prices as a baseline to see the percentage growth of Salesforce and S&P 500. It can be clearly seen that Salesforce's stock price is growing faster than S&P 500. Finally, it shows the future stock price estimate, explaining what the return of buying Salesforce now will be in one year.
 
 ## Wireframe & StoryBoard
@@ -53,9 +53,9 @@ I will show the change of stock price ratio of Salesforce and S&P 500 and compar
 
 The user research protocol identifies the following: 
 
-a. the target audience you hope to reach with your story: My target audience of my presentation are rich people have technology knowledge but no investment experience. However, they still want to earn extra money by buying stocks. Therefore, my plan is to introduce a company that they may hear before, and use financial data to tell a story about the stock that the stock price will go higher in a year.
+a. the target audience you hope to reach with your story: My target audience of my presentation are rich people have technical knowledge but no investment experience. However, they still want to earn extra money by buying stocks. Therefore, my plan is to introduce a company that they may hear before, and use financial data to tell a story about the stock that the stock price will go higher in a year.
 
-b. your approach to identifying representative individuals to interview: As a CMU student, I have network of tech people. If they enter FAMMA, it is possible that they are rich enough to make some plan in investment. So, I can find some of my CMU friends who are in these companies.
+b. your approach to identifying representative individuals to interview: As a CMU student, I have a network of tech people. If they enter FAMMA, it is possible that they are rich enough to make some plans in investment. So, I can find some of my CMU friends who are in these companies.
 
 c. your interview script:
 - Can you tell me what you think this is?
@@ -76,7 +76,7 @@ I feel that you are using pictures to show some situations in your imagination, 
 I don't really understand the meaning of drawing this thing, because it's just based on your imagination. In reality, it's impossible to succeed so easily.
 
 -Is there anything you would change or do differently?
-I think this thing is meaningless, you should show me your code and create the thing first.
+I think this thing is meaningless; you should show me your code and create the thing first.
 
 Interviewee 2: 
 - Can you tell me what you think this is?
