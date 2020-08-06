@@ -3,7 +3,7 @@
 ## 1. The idea
 
 ### High-Level Introduction
-Many people are trying to invest in stock market in March 2020, but they don't know which stock to choose. I give them a list of 5 good companies to invest, and one of them is Salesforce. Salesforce has enough revenue to grow for a higher valuation, especially in a promising industry. 
+Many people are trying to invest in stock market in April 2020, but they don't know which stock to choose. I give them a list of 5 good companies to invest, and one of them is Salesforce. Salesforce has enough revenue to grow for a higher valuation, especially in a promising industry. 
 
 #### What should my reader do if they understand and agree the story
 As a reader, I want to invest in Salesforce's stock so that I can get a high return from my investment.
@@ -12,7 +12,7 @@ As a reader, I want to invest in Salesforce's stock so that I can get a high ret
 
 ![Story Arc](WechatIMG3106.jpeg) 
 
-My story arc is above. It proves that the audience should buy the stock of Salesforce (call-to-action) for a high return. The X axis shows the time, and the Y axis shows the ratio of stock price compared to 2015. The method is to make comparative analysis, and the medium is the ratio of stock price on my website from a source of Yahoo Finance..
+My story arc is above. It proves that the audience should buy the stock of Salesforce (call-to-action) for a high return. The X axis shows the time, and the Y axis shows the ratio of stock price compared to 2010. The method is to make comparative analysis, and the medium is the ratio of stock price on my website from a source of Yahoo Finance..
 
 I draw two lines in this picture. The upper one is the line of Salesforce; the lower one is the S&P 500, representing other large companies' stock prices. As we can see here, in the past 5 years, Salesforce's increase in stock price is much higher than the increase of S&P 500. Therefore, compared to the most of the companies in S&P 500, Salesforce is a better target for investment.
 
