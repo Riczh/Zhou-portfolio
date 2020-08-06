@@ -47,16 +47,13 @@ In this process, I used these data as follows. First of all, I showed the change
 ![Storyboard](WechatIMG3110.jpeg)
 My storyboards should be a visual walkthrough of the primary elements of your outline. It can be divided into three parts. Figures 1, 2, and 8 are the introduction to the background content and results, Figures 3 and 4 are the introduction to the revenue part, and 5, 6, and 7 are the introduction to most of the contents. These three parts are a good demonstration of the type of audience and the whole process of persuading the audience to buy stocks and invest.
 
-### Data visualizations
+### Previous Data visualizations
 
-![Dominant Position of Salesforce in the Cloud CRM industry](Jietu20200721-175556@2x.jpg)
-Salesforce has a very high market share and dominance in Cloud CRM, close to 4 times as the second place.
+![Revenue & Cost](WechatIMG3111.jpeg)
+I will draw a line of revenue to show the correlation of revenue and stock price, and point out the revenue will go higher. I showed the changes in revenue and cost of Salesforce in the past 10 years. It can be found that revenue is increasing rapidly, and the growth rate is faster than cost, which means that the profit is also increasing rapidly.
 
-<div class="flourish-embed flourish-chart" data-src="visualisation/3401607" data-url="https://flo.uri.sh/visualisation/3401607/embed"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
-Salesforce's current revenue is very high, so that the company has enough stability not to fail in a crisis. I will draw a line of revenue to show the correlation of revenue and stock price, and point out the revenue will go higher. I showed the changes in revenue and cost of Salesforce in the past 10 years. It can be found that revenue is increasing rapidly, and the growth rate is faster than cost, which means that the profit is also increasing rapidly.
-
-<div class="flourish-embed flourish-chart" data-src="visualisation/3402444" data-url="https://flo.uri.sh/visualisation/3402444/embed"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
-This is the change in the stock price of Salesforce and other large companies' indexes from 2015 to the present. Salesforce's growth rate is much higher than other companies in the market, and it is expected to continue to grow rapidly in the next several months. I will show the change of stock price ratio of Salesforce and S&P 500 and compare them. I will use the estimation of valuation about Salesforce's stock price to calculate the return of investment (ROI).
+![Ratio of Stock Price](WechatIMG3106.jpeg)
+I will show the change of stock price ratio of Salesforce and S&P 500 and compare them. I will use the estimation of valuation about Salesforce's stock price to calculate the return of investment (ROI).
 
 ### User research protocol
 
@@ -130,15 +127,26 @@ I will add CAGR, and then mark more data points in each graph. But I think it st
 3) Compare the ROI of investing in Salesforce with other methods.
 
 ### Wireframes based off of user research and a summary of findings. 
+
+![Dominant Position of Salesforce in the Cloud CRM industry](Jietu20200806-140401@2x.jpg)
+Salesforce has a very high market share and dominance in Cloud CRM, close to 4 times as the second place.
+
+<div class="flourish-embed flourish-chart" data-src="visualisation/3401607" data-url="https://flo.uri.sh/visualisation/3401607/embed"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+Salesforce's current revenue is very high, so that the company has enough stability not to fail in a crisis. I will draw a line of revenue to show the correlation of revenue and stock price, and point out the revenue will go higher. I showed the changes in revenue and cost of Salesforce in the past 10 years. It can be found that revenue is increasing rapidly, and the growth rate is faster than cost, which means that the profit is also increasing rapidly.
+
+<div class="flourish-embed flourish-chart" data-src="visualisation/3402444" data-url="https://flo.uri.sh/visualisation/3402444/embed"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+This is the change in the stock price of Salesforce and other large companies' indexes from 2015 to the present. Salesforce's growth rate is much higher than other companies in the market, and it is expected to continue to grow rapidly in the next several months. I will show the change of stock price ratio of Salesforce and S&P 500 and compare them. I will use the estimation of valuation about Salesforce's stock price to calculate the return of investment (ROI).
+
+###
 待完成
-
-
 Part II writeup includes a few paragraphs that talk about the intended audience for your final data story. Personas and / or other information used to narrow the focus are included. Specific things that were changed between Part I and II are noted based on user feedback.
 
 ## 3. Final data story
 
+### Talk about my intended audience for the final story
 Suppose we have a Time Machine and come back to April 2020. You are an employee of one of the best tech companies and just graduated from CMU, who is interested in investing in stocks but have no experience.  And as a stockbroker, I am going to introduce the Salesforce to persuade you to buy the stock. 
 
+### How would I tell the 1 minute story to my audience
 Hey if you want to make money by investment but never try it, here is the way. There are the best five stocks that might suit you. And I will introduce Salesforce among them, with 3 pictures.
 
 First, Salesforce has a very high market share and dominance in Cloud CRM, close to 4 times as the second place.
@@ -152,19 +160,12 @@ I also prepared in-depth industry research and financial analysis. If you are in
 
 If someone wants to sell a stock like this, don’t trust them. They are just bloody stock broker who wants to get your money to their pocket. I am Seriously!
 
+### A few paragraphs that summarize the work you've done so far
 
-
-A few paragraphs that talk about the intended audience for your final data story.  Include any personas and / or other information you've used that helped you narrow the focus.  Talk about specific things you did to your final project to make it work for your audience. 
+未完成
 A few paragraphs that summarize the work you've done so far.  Talk about the design decisions you had to make along the way, and reflect on anything in particular that stands out to you that you learned working through the process. 
-Include a link to your updated Github repository that includes a link to your final data story (e.g. a link to your Shorthand / StoryMap or other final project).  Make sure your data story is published and publicly accessible. 
-Add a link to your final data story (a direct link to Shorthand / StoryMap / etc.) placed in the final presentation spreadsheet on Canvas.  Add the link next to your name in the spreadsheet, and update the title to reflect the working title for your presentation.
-Include all references for materials used.  It's your responsibility to ensure you have permission to use imagery and other assets, and that you use them appropriately.  A reminder to NOT USE COPYRIGHTED MATERIAL - see the library's guide to ensure you are using images correctlyLinks to an external site..  Make sure to add / update any citations and / or other content that you used to create your data story.  References should also be clearly identified on your final data story itself.  
-Include any other information that helps round out your data story. 
 
-
-
-
-## Links and references
+## 4. Links and references
 
 ### The datasets from four sources:
 1. The Annual reports of Salesforce https://investor.salesforce.com/financials/default.aspx
@@ -182,9 +183,9 @@ Include any other information that helps round out your data story.
 
 ### Data Visualization Tools
 
-Tableau https://www.tableau.com/
-Flourish Studio https://flourish.studio/
-Infogram https://infogram.com/
+1. Tableau https://www.tableau.com/
+2. Flourish Studio https://flourish.studio/
+3. Infogram https://infogram.com/
 
 ### Github and Shorthand links
 - Shorthand https://carnegiemellon.shorthandstories.com/stock-pitch-for-salesforce/index.html
