@@ -134,6 +134,23 @@ Part II writeup includes a few paragraphs that talk about the intended audience 
 
 ## 3. Final data story
 
+Suppose we have a Time Machine and come back to April 2020. You are an employee of one of the best tech companies and just graduated from CMU, who is interested in investing in stocks but have no experience.  And as a stockbroker, I am going to introduce the Salesforce to persuade you to buy the stock. 
+
+Hey if you want to make money by investment but never try it, here is the way. There are the best five stocks that might suit you. And I will introduce Salesforce among them, with 3 pictures.
+
+First, Salesforce has a very high market share and dominance in Cloud CRM, close to 4 times as the second place.
+
+Secondly, Salesforce's current revenue is very high, so that the company has enough stability not to fail in a crisis.
+
+Finally, this is the change in the stock price of Salesforce and other large companies' indexes from 2016 to the present. Salesforce's growth rate is much higher than other companies in the market, and it is expected to continue to grow rapidly in the next 1-2 years. 
+Therefore, using the following two websites, buy the stock, But buy the amount that makes you comfortable. We are not here to make you nervous; we are here to help you make money.
+
+I also prepared in-depth industry research and financial analysis. If you are interested, you can read it on our website.
+
+If someone wants to sell a stock like this, don’t trust them. They are just bloody stock broker who wants to get your money to their pocket. I am Seriously!
+
+
+
 A few paragraphs that talk about the intended audience for your final data story.  Include any personas and / or other information you've used that helped you narrow the focus.  Talk about specific things you did to your final project to make it work for your audience. 
 A few paragraphs that summarize the work you've done so far.  Talk about the design decisions you had to make along the way, and reflect on anything in particular that stands out to you that you learned working through the process. 
 Include a link to your updated Github repository that includes a link to your final data story (e.g. a link to your Shorthand / StoryMap or other final project).  Make sure your data story is published and publicly accessible. 
@@ -142,10 +159,17 @@ Include all references for materials used.  It's your responsibility to ensure y
 Include any other information that helps round out your data story. 
 
 
-## Links and references
-Images are cited correctly, follow library guidelines on acceptable use. Links working. Final page includes all links / references for everything used in project. Citations are detailed enough to easily track back to original sources.
 
-Stock Photos:
+
+## Links and references
+
+### The datasets from four sources:
+1. The Annual reports of Salesforce https://investor.salesforce.com/financials/default.aspx
+2. The data of Yahoo Finance https://finance.yahoo.com/quote/CRM?p=CRM&.tsrc=fin-srch
+3. The data of Capital IQ https://www.capitaliq.com/CIQDotNet/my/dashboard.aspx (Need to log in CMU VPN)
+4. Apps Run the World https://www.appsruntheworld.com/top-10-cloud-crm-software-vendors-market-size-and-forecast-2019-2024/
+
+### Stock Photos:
 1. Photo by Essow Kedelina from Pexels https://www.pexels.com/photo/gray-high-rise-buildings-936722/
 2. Photo by energepic.com from Pexels https://www.pexels.com/photo/blue-and-yellow-graph-on-stock-market-monitor-159888/
 3. Photo by Lukas from Pexels https://www.pexels.com/photo/close-up-photo-of-man-wearing-black-suit-jacket-doing-thumbs-up-gesture-684385/
@@ -153,5 +177,12 @@ Stock Photos:
 5. Photo by Markus Spiske from Pexels https://www.pexels.com/photo/black-and-white-newspaper-stock-exchange-stock-market-102152/
 6. Photo by Trang Doan from Pexels https://www.pexels.com/photo/people-in-couch-1024248/
 
-## Github and Shorthand links
-Link to the main Github repository (portfolio page) and the final publicly available Shorthand (or other acceptable site) is included. Other information as relevant / needed included in the Part II writeup.
+### Data Visualization Tools
+
+Tableau https://www.tableau.com/
+Flourish Studio https://flourish.studio/
+Infogram https://infogram.com/
+
+### Github and Shorthand links
+- Shorthand https://carnegiemellon.shorthandstories.com/stock-pitch-for-salesforce/index.html
+- Github https://github.com/Riczh/Zhou-portfolio
