@@ -145,5 +145,13 @@ Include any other information that helps round out your data story.
 ## Links and references
 Images are cited correctly, follow library guidelines on acceptable use. Links working. Final page includes all links / references for everything used in project. Citations are detailed enough to easily track back to original sources.
 
+Stock Photos:
+1. Photo by Essow Kedelina from Pexels https://www.pexels.com/photo/gray-high-rise-buildings-936722/
+2. Photo by energepic.com from Pexels https://www.pexels.com/photo/blue-and-yellow-graph-on-stock-market-monitor-159888/
+3. Photo by Lukas from Pexels https://www.pexels.com/photo/close-up-photo-of-man-wearing-black-suit-jacket-doing-thumbs-up-gesture-684385/
+4. Photo by picjumbo.com from Pexels https://www.pexels.com/photo/ballpen-blur-close-up-computer-461077/
+5. Photo by Markus Spiske from Pexels https://www.pexels.com/photo/black-and-white-newspaper-stock-exchange-stock-market-102152/
+6. Photo by Trang Doan from Pexels https://www.pexels.com/photo/people-in-couch-1024248/
+
 ## Github and Shorthand links
 Link to the main Github repository (portfolio page) and the final publicly available Shorthand (or other acceptable site) is included. Other information as relevant / needed included in the Part II writeup.
