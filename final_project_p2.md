@@ -131,6 +131,8 @@ I will add CAGR, and then mark more data points in each graph. But I think it st
 ![Dominant Position of Salesforce in the Cloud CRM industry](Jietu20200806-140401@2x.jpg)
 Salesforce has a very high market share and dominance in Cloud CRM, close to 4 times as the second place.
 
+#### I cannot embed this picture on Tableau online since I cannot sign in. When I try to sign in, Tableau Server told me this site has been suspended. You must be a System Administrator to sign in (errorCode = 10029). When I try to create a new account to sign in, it told me unable to sign in for invalid username or password. So I can only use a screenshot to do this.
+
 <div class="flourish-embed flourish-chart" data-src="visualisation/3401607" data-url="https://flo.uri.sh/visualisation/3401607/embed"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 Salesforce's current revenue is very high, so that the company has enough stability not to fail in a crisis. I will draw a line of revenue to show the correlation of revenue and stock price, and point out the revenue will go higher. I showed the changes in revenue and cost of Salesforce in the past 10 years. It can be found that revenue is increasing rapidly, and the growth rate is faster than cost, which means that the profit is also increasing rapidly.
 
@@ -162,8 +164,7 @@ If someone wants to sell a stock like this, don’t trust them. They are just bl
 
 ### A few paragraphs that summarize the work you've done so far
 
-未完成
-A few paragraphs that summarize the work you've done so far.  Talk about the design decisions you had to make along the way, and reflect on anything in particular that stands out to you that you learned working through the process. 
+For the whole Shorthand website, I have six parts on the website. The first one is background. I would like to give me audience a hypothetical situation and involve them in. Then, I put three pictures in investment thesis, which is the key part of my one-minute presentation. I also have industry overview and financial analysis to give more detail for potential investors about the company. Finally, I have a call-to-action to make people move for that. I also list references and sources of information or tools of my presentation.
 
 ## 4. Links and references
 
